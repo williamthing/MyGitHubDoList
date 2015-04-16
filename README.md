@@ -2,7 +2,11 @@
 
 #Priority Queue:
 
+MOST IMPORTANT IS DJANGO!!!
+
 * Learn Django --> Read up on Documents and Django cmd
+________________________________________________________
+
 * Learn other API's --> Finish CA Youtube Tutorial
 * Practice more Python Coding --> Learn List Comprehensions, Maping, Dictionaries again
 * Fix up Website morel
