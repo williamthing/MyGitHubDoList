@@ -5,7 +5,11 @@
 MOST IMPORTANT IS DJANGO!!!
 
 * Learn Django --> Read up on Documents and Django cmd
+
+	Resources: https://docs.djangoproject.com/en/1.8/intro/tutorial01/
 ________________________________________________________
+
+
 
 * Learn other API's --> Finish CA Youtube Tutorial
 * Practice more Python Coding --> Learn List Comprehensions, Maping, Dictionaries again
