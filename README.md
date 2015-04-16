@@ -2,10 +2,10 @@
 
 #Priority Queue:
 
-* Learn Django
+* Learn Django --> Read up on Documents and Django cmd
 * Learn other API's --> Finish CA Youtube Tutorial
 * Practice more Python Coding --> Learn List Comprehensions, Maping, Dictionaries again
-* Fix up Website more
+* Fix up Website morel
 * Do Projects -> MyLocations 
 * Finish EightQueens
 * Learn Google API's
