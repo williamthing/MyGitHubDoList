@@ -11,7 +11,7 @@ MOST IMPORTANT IS DJANGO!!!
 
 * Learn other API's --> Finish CA Youtube Tutorial
 * Practice more Python Coding --> Learn List Comprehensions, Maping, Dictionaries again
-* Fix up Website morel
+* Fix up Website more
 * Do Projects --> MyLocations 
 * Finish EightQueens
 * Learn Google API's
