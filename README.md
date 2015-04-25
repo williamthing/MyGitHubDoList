@@ -9,6 +9,7 @@ MOST IMPORTANT IS DJANGO!!!
 				Resources: https://docs.djangoproject.com/en/1.8/intro/tutorial01/
 
 
+* Learn Angular.js for CloudBolt front-end
 * Learn other API's --> Finish CA Youtube Tutorial
 * Practice more Python Coding --> Learn List Comprehensions, Maping, Dictionaries again
 * Fix up Website more
