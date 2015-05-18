@@ -18,6 +18,7 @@ MOST IMPORTANT IS DJANGO!!!
 				
 				
 * Practice more Python Coding --> Learn List Comprehensions, Maping, Dictionaries again
+* Review Data Structures & Algorithms Book
 * Fix up Website more
 * Do Projects --> MyLocations 
 * Finish EightQueens
