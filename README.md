@@ -11,6 +11,8 @@ MOST IMPORTANT IS DJANGO!!!
 
 * Learn Angular.js for CloudBolt front-end
 * Learn other API's --> Finish CA Youtube Tutorial
+* Project idea creating a binary calculator similiar to below: (Java or Python) maybe UI
+	http://www.csgnetwork.com/binaddsubcalc.html
 * Practice more Python Coding --> Learn List Comprehensions, Maping, Dictionaries again
 * Fix up Website more
 * Do Projects --> MyLocations 
